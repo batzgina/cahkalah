@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://taephoo.geekzph.com/sitemap.xml
